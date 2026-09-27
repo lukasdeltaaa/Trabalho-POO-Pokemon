@@ -79,7 +79,7 @@ Durante uma batalha:
 Classe base dos Pokémon. Possui informações como nome, tipo, nível,
 HP e ataque base.
 
-### `PokemonAgua`, `PokemonFogo`, `PokemonEletricidade`,
+`PokemonAgua`, `PokemonFogo`, `PokemonEletricidade`,
 `PokemonTerra` e `PokemonVento`
 
 São subclasses de `Pokemon` que especializam o comportamento do método
