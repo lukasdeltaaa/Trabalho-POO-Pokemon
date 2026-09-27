@@ -1,5 +1,11 @@
 # Projeto desenvolvido em Java para a disciplina de Programação Orientada a Objetos (POO).
 
+## Integrantes:
+- Kathleen Martins Teixeira
+- Lívia Pereira Martins dos Santos
+- Luca Conti Turchet
+
+
 ## Sobre o projeto
 
 O Pokémon Adventure é um sistema desenvolvido para aplicar conceitos de
@@ -108,7 +114,16 @@ usuário.
 3. Execute a classe `App`.
 4. Siga as opções apresentadas no terminal.
 
-## Integrantes
-Kathleen Martins Teixeira
-Lívia Pereira Martins dos Santos
-Luca Conti Turchet
+## Uso de Inteligência Artificial
+
+Durante o desenvolvimento do projeto, foram utilizadas ferramentas de
+Inteligência Artificial como apoio ao processo de desenvolvimento.
+
+A IA foi utilizada principalmente para:
+- esclarecer dúvidas sobre conceitos de Java e Programação Orientada a Objetos;
+- auxiliar na compreensão de trechos de código;
+- sugerir soluções para problemas encontrados durante o desenvolvimento;
+- auxiliar na organização e documentação do projeto.
+
+O código foi analisado e compreendido pelos integrantes do grupo, que são
+responsáveis pelas decisões e pelo funcionamento final do projeto.
