@@ -14,6 +14,23 @@ Programação Orientada a Objetos utilizando Pokémon, treinadores e batalhas.
 O programa permite visualizar os Pokémon do treinador, escolher um Pokémon
 para batalhar e enfrentar um Pokémon adversário sorteado aleatoriamente.
 
+Requisitos técnicos aplicados
+
+##O projeto atende aos principais requisitos técnicos trabalhados durante a disciplina:
+
+- Classes: o projeto possui mais de 5 classes próprias além da classe App.
+- Herança: as subclasses utilizam extends e seus construtores utilizam super(...).
+- Encapsulamento: os atributos das classes são protegidos por modificadores de acesso e possuem getters e setters, com validações aplicadas aos valores.
+- protected: é utilizado na superclasse quando é necessário permitir o acesso pelas subclasses. A justificativa dessa utilização está apresentada no relatório individual.
+- Polimorfismo: as subclasses sobrescrevem o método atacar() utilizando @Override. Os Pokémon são armazenados em uma ArrayList<Pokemon> e podem ser percorridos utilizando for-each.
+- Sobrecarga: a classe Batalha possui métodos com o mesmo nome e diferentes assinaturas para realizar cálculos de dano.
+- instanceof e downcasting: utilizados na classe Batalha para verificar o tipo específico de um Pokémon e permitir o acesso a comportamentos específicos de suas subclasses.
+- Tipos de dados: são utilizados tipos primitivos e String de acordo com as necessidades do sistema.
+- Menu: o programa possui um menu interativo no console utilizando Scanner.
+- Validação de entrada: o sistema verifica se a entrada do usuário é válida antes de continuar determinadas operações.
+- Execução: o projeto pode ser executado pela classe App em uma IDE compatível com Java.
+- Nomenclatura: as classes, métodos e variáveis seguem as convenções de nomenclatura utilizadas em Java.
+
 ## Funcionalidades
 
 - Visualização dos Pokémon do treinador
