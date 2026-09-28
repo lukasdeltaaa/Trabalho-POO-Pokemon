@@ -14,9 +14,9 @@ Programação Orientada a Objetos utilizando Pokémon, treinadores e batalhas.
 O programa permite visualizar os Pokémon do treinador, escolher um Pokémon
 para batalhar e enfrentar um Pokémon adversário sorteado aleatoriamente.
 
-Requisitos técnicos aplicados
+## Requisitos técnicos aplicados
 
-##O projeto atende aos principais requisitos técnicos trabalhados durante a disciplina:
+O projeto atende aos principais requisitos técnicos trabalhados durante a disciplina:
 
 - Classes: o projeto possui mais de 5 classes próprias além da classe App.
 - Herança: as subclasses utilizam extends e seus construtores utilizam super(...).
